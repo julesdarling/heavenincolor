@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T11:44:34.391261Z",
+  "generatedAt": "2026-10-29T12:45:38.345921Z",
   "retention": {
     "capBytes": 943718400,
-    "retainedBytes": 14730124,
-    "derivativeBytes": 13409120,
-    "spriteBytes": 1321004,
-    "retainedCount": 8828,
-    "sourceCount": 9055,
+    "retainedBytes": 14732926,
+    "derivativeBytes": 13411853,
+    "spriteBytes": 1321073,
+    "retainedCount": 8830,
+    "sourceCount": 9057,
     "prunedCount": 0,
     "oldestCapturedAt": "2026-04-25T03:40:27Z",
-    "newestCapturedAt": "2026-10-29T11:43:38Z",
+    "newestCapturedAt": "2026-10-29T12:44:42Z",
     "excludedBeforeCount": 227,
     "minCapturedAt": "2026-04-25T03:11:00Z"
   },
@@ -182318,6 +182318,45 @@
         "key": "2026-W44",
         "index": 162
       }
+    },
+    {
+      "id": "20261029T121438Z",
+      "capturedAt": "2026-10-29T12:14:38Z",
+      "imageUrl": "images/2026/10/20261029T121438Z.jpg",
+      "thumbUrl": "thumbs/2026/10/20261029T121438Z.jpg",
+      "averageHex": "#080705",
+      "cropAverageHex": "#060604",
+      "cropPalette": [
+        "#030301",
+        "#0b0b08"
+      ],
+      "width": 128,
+      "height": 72,
+      "bytes": 761,
+      "thumbBytes": 614,
+      "sprite": {
+        "key": "2026-W44",
+        "index": 163
+      }
+    },
+    {
+      "id": "20261029T124442Z",
+      "capturedAt": "2026-10-29T12:44:42Z",
+      "imageUrl": "images/2026/10/20261029T124442Z.jpg",
+      "thumbUrl": "thumbs/2026/10/20261029T124442Z.jpg",
+      "averageHex": "#070605",
+      "cropAverageHex": "#050503",
+      "cropPalette": [
+        "#040301"
+      ],
+      "width": 128,
+      "height": 72,
+      "bytes": 753,
+      "thumbBytes": 605,
+      "sprite": {
+        "key": "2026-W44",
+        "index": 164
+      }
     }
   ],
   "sprites": {
@@ -182629,8 +182668,8 @@
         "rows": 11,
         "width": 1024,
         "height": 704,
-        "count": 163,
-        "bytes": 19421
+        "count": 165,
+        "bytes": 19490
       }
     ]
   }
