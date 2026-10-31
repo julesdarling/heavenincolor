@@ -3,21 +3,21 @@
 ## Target
 
 - Canonical domain: `heavenincolor.com`
-- GitHub Pages default domain: `juleshaggard.github.io`
-- GitHub Pages repository: `juleshaggard/heavenincolor`
+- GitHub Pages default domain: `julesdarling.github.io`
+- GitHub Pages repository: `julesdarling/heavenincolor`
 - GitHub Pages custom domain setting: `heavenincolor.com`
 - GitHub Pages status as of 2026-05-24: custom domain configured, DNS cutover complete, HTTPS enforced
 
 ## Current DNS
 
-As of 2026-05-24, the authoritative nameservers return GitHub Pages records for the apex domain:
+As verified on 2026-10-30, DNS returns GitHub Pages records for the apex domain and the current account hostname for `www`:
 
 ```text
 heavenincolor.com A 185.199.108.153
 heavenincolor.com A 185.199.109.153
 heavenincolor.com A 185.199.110.153
 heavenincolor.com A 185.199.111.153
-www.heavenincolor.com CNAME juleshaggard.github.io
+www.heavenincolor.com CNAME julesdarling.github.io
 ```
 
 Name servers:
@@ -56,7 +56,7 @@ Add IPv6 records if the provider supports them:
 The `www` redirect target should be:
 
 ```text
-www CNAME juleshaggard.github.io
+www CNAME julesdarling.github.io
 ```
 
 Do not add wildcard records.

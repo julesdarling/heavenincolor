@@ -25,7 +25,7 @@ Start with a media audit because GitHub Pages and regular Git have practical lim
 
 ## Dependencies
 
-- Admin access to `juleshaggard/heavenincolor` for Pages settings and GitHub Actions deployment.
+- Admin access to `julesdarling/heavenincolor` for Pages settings and GitHub Actions deployment.
 - Write access or a fine-grained GitHub token for the Raspberry Pi to push image/manifest updates.
 - Access to the Pi capture directory, expected at `../Pi build/data/captures` on the device.
 - DNS provider access for the eventual custom domain cutover, intentionally deferred until staging is approved.
@@ -33,7 +33,7 @@ Start with a media audit because GitHub Pages and regular Git have practical lim
 
 ## Notes
 
-- Staging target: `https://juleshaggard.github.io/heavenincolor/` unless repository settings produce a different GitHub Pages URL.
+- Staging target: `https://julesdarling.github.io/heavenincolor/` unless repository settings produce a different GitHub Pages URL.
 - Do not configure a `CNAME` file or GitHub Pages custom domain until task 08.
 - Current site image dependencies are centered in `src/lib/cloudinary.ts`, `src/hooks/useSkyImages.ts`, and the sky components.
 - Current Pi limit is `CLOUDINARY_MAX_IMAGES = 1000` in `../Pi build/app.py`.

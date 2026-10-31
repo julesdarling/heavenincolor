@@ -256,12 +256,12 @@ function AboutModal({ onClose }: { onClose: () => void }) {
 
         <div data-about-reveal className="mx-auto mt-16 flex max-w-[1180px] justify-start">
           <a
-            href="https://www.haggard.design/"
+            href="https://darlingjules.com"
             target="_blank"
             rel="noreferrer"
             className="inline-flex h-10 items-center gap-2 rounded-full border border-ink/18 bg-paper/55 px-4 text-[13px] text-ink backdrop-blur-md transition-colors hover:border-ink/35 hover:bg-paper/85"
           >
-            By Haggard and Associates LLC
+            By Jules Darling
             <ExternalLink className="h-3.5 w-3.5" strokeWidth={1.75} />
           </a>
         </div>

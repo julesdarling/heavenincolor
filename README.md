@@ -8,7 +8,7 @@ GitHub Pages deploys from `main` to:
 
 https://heavenincolor.com/
 
-The fallback GitHub Pages URL is `https://juleshaggard.github.io/heavenincolor/`, but the production build is rooted for the custom domain.
+The fallback GitHub Pages URL is `https://julesdarling.github.io/heavenincolor/`, but the production build is rooted for the custom domain.
 
 ## Images
 
