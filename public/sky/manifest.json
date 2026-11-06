@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T19:39:31.629539Z",
+  "generatedAt": "2026-11-06T20:41:46.878146Z",
   "retention": {
     "capBytes": 943718400,
-    "retainedBytes": 15360876,
-    "derivativeBytes": 13985815,
-    "spriteBytes": 1375061,
-    "retainedCount": 9215,
-    "sourceCount": 9442,
+    "retainedBytes": 15365564,
+    "derivativeBytes": 13989614,
+    "spriteBytes": 1375950,
+    "retainedCount": 9217,
+    "sourceCount": 9444,
     "prunedCount": 0,
     "oldestCapturedAt": "2026-04-25T03:40:27Z",
-    "newestCapturedAt": "2026-11-06T19:38:34Z",
+    "newestCapturedAt": "2026-11-06T20:40:46Z",
     "excludedBeforeCount": 227,
     "minCapturedAt": "2026-04-25T03:11:00Z"
   },
@@ -190176,6 +190176,51 @@
         "key": "2026-W45",
         "index": 223
       }
+    },
+    {
+      "id": "20261106T200934Z",
+      "capturedAt": "2026-11-06T20:09:34Z",
+      "imageUrl": "images/2026/11/20261106T200934Z.jpg",
+      "thumbUrl": "thumbs/2026/11/20261106T200934Z.jpg",
+      "averageHex": "#b4babf",
+      "cropAverageHex": "#b6bbbc",
+      "cropPalette": [
+        "#839aae",
+        "#9ba9b6",
+        "#c1c1bd",
+        "#d1cec6",
+        "#e0dacf"
+      ],
+      "width": 128,
+      "height": 72,
+      "bytes": 1233,
+      "thumbBytes": 773,
+      "sprite": {
+        "key": "2026-W45",
+        "index": 224
+      }
+    },
+    {
+      "id": "20261106T204046Z",
+      "capturedAt": "2026-11-06T20:40:46Z",
+      "imageUrl": "images/2026/11/20261106T204046Z.jpg",
+      "thumbUrl": "thumbs/2026/11/20261106T204046Z.jpg",
+      "averageHex": "#b5c8dd",
+      "cropAverageHex": "#aec3d8",
+      "cropPalette": [
+        "#a3bed4",
+        "#b0c3d8",
+        "#c2cfe1",
+        "#ced9ea"
+      ],
+      "width": 128,
+      "height": 72,
+      "bytes": 1094,
+      "thumbBytes": 699,
+      "sprite": {
+        "key": "2026-W45",
+        "index": 225
+      }
     }
   ],
   "sprites": {
@@ -190495,11 +190540,11 @@
         "url": "sprites/2026/2026-W45.jpg",
         "tileSize": 64,
         "columns": 16,
-        "rows": 14,
+        "rows": 15,
         "width": 1024,
-        "height": 896,
-        "count": 224,
-        "bytes": 25523
+        "height": 960,
+        "count": 226,
+        "bytes": 26412
       }
     ]
   }
