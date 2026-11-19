@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T19:45:52.743846Z",
+  "generatedAt": "2026-11-19T20:48:01.976462Z",
   "retention": {
     "capBytes": 943718400,
-    "retainedBytes": 16307197,
-    "derivativeBytes": 14855368,
-    "spriteBytes": 1451829,
-    "retainedCount": 9818,
-    "sourceCount": 10045,
+    "retainedBytes": 16310777,
+    "derivativeBytes": 14858636,
+    "spriteBytes": 1452141,
+    "retainedCount": 9820,
+    "sourceCount": 10047,
     "prunedCount": 0,
     "oldestCapturedAt": "2026-04-25T03:40:27Z",
-    "newestCapturedAt": "2026-11-19T19:44:51Z",
+    "newestCapturedAt": "2026-11-19T20:46:59Z",
     "excludedBeforeCount": 227,
     "minCapturedAt": "2026-04-25T03:11:00Z"
   },
@@ -202368,6 +202368,48 @@
         "key": "2026-W47",
         "index": 177
       }
+    },
+    {
+      "id": "20261119T201556Z",
+      "capturedAt": "2026-11-19T20:15:56Z",
+      "imageUrl": "images/2026/11/20261119T201556Z.jpg",
+      "thumbUrl": "thumbs/2026/11/20261119T201556Z.jpg",
+      "averageHex": "#c1c2bb",
+      "cropAverageHex": "#bebeb7",
+      "cropPalette": [
+        "#abafaa",
+        "#bdbbb4",
+        "#c7c6bf",
+        "#d8d6cc"
+      ],
+      "width": 128,
+      "height": 72,
+      "bytes": 1084,
+      "thumbBytes": 729,
+      "sprite": {
+        "key": "2026-W47",
+        "index": 178
+      }
+    },
+    {
+      "id": "20261119T204659Z",
+      "capturedAt": "2026-11-19T20:46:59Z",
+      "imageUrl": "images/2026/11/20261119T204659Z.jpg",
+      "thumbUrl": "thumbs/2026/11/20261119T204659Z.jpg",
+      "averageHex": "#c6c7c4",
+      "cropAverageHex": "#c4c5c1",
+      "cropPalette": [
+        "#bdbfbd",
+        "#c7c7c3"
+      ],
+      "width": 128,
+      "height": 72,
+      "bytes": 823,
+      "thumbBytes": 632,
+      "sprite": {
+        "key": "2026-W47",
+        "index": 179
+      }
     }
   ],
   "sprites": {
@@ -202712,8 +202754,8 @@
         "rows": 12,
         "width": 1024,
         "height": 768,
-        "count": 178,
-        "bytes": 26091
+        "count": 180,
+        "bytes": 26403
       }
     ]
   }
